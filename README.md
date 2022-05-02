@@ -1,0 +1,1 @@
+# ASPNETCore6-DistributedTracing-OpenTelemetry-Jaeger-HttpClient_ContagemAcessos
